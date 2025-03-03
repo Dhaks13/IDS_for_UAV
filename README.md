@@ -26,3 +26,4 @@ making it more trustworthy.
 [1] Ihekoronye, Vivian & Ajakwe, Simeon & Kim, Dong-Seong. (2024). DroneGuard: An
 Explainable and Efficient Machine Learning Framework for Intrusion Detection in Drone
 Networks. IEEE Internet of Things Journal. PP. 1-1. 10.1109/JIOT.2024.3519633. 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10806864
